@@ -25,10 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
+![image](https://user-images.githubusercontent.com/72587880/228300168-27243d45-30c5-4d76-b0ba-2fb7af2051d6.png)
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Robertron624/3-column-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://leafy-madeleine-9ffa2a.netlify.app/)
 
 ## My process
 
